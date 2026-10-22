@@ -1,0 +1,144 @@
+== Source Information ==
+
+These frames were extracted from [[File:Turn_head_left_and_right_20261021085100.mp4]] using [https://videotojpg.com videotojpg.com].
+
+=== Suggested {{Information}} template ===
+
+<nowiki>
+{{Information
+|description=Frame extracted from [[File:Turn_head_left_and_right_20261021085100.mp4]]
+|source={{Extracted from|Turn_head_left_and_right_20261021085100.mp4}}
+|date={{According to Exif data}}
+|author=
+|permission=
+|other versions=
+}}
+</nowiki>
+
+=== Extracted frames ===
+
+* [[File:img_00001.jpg]] - frame at 0s
+* [[File:img_00007.jpg]] - frame at 0s200ms
+* [[File:img_00009.jpg]] - frame at 0s267ms
+* [[File:img_00014.jpg]] - frame at 0s433ms
+* [[File:img_00017.jpg]] - frame at 0s533ms
+* [[File:img_00023.jpg]] - frame at 0s733ms
+* [[File:img_00027.jpg]] - frame at 0s867ms
+* [[File:img_00030.jpg]] - frame at 0s967ms
+* [[File:img_00035.jpg]] - frame at 1s133ms
+* [[File:img_00037.jpg]] - frame at 1s200ms
+* [[File:img_00041.jpg]] - frame at 1s333ms
+* [[File:img_00045.jpg]] - frame at 1s467ms
+* [[File:img_00050.jpg]] - frame at 1s633ms
+* [[File:img_00055.jpg]] - frame at 1s800ms
+* [[File:img_00058.jpg]] - frame at 1s900ms
+* [[File:img_00063.jpg]] - frame at 2s67ms
+* [[File:img_00065.jpg]] - frame at 2s133ms
+* [[File:img_00070.jpg]] - frame at 2s300ms
+* [[File:img_00075.jpg]] - frame at 2s467ms
+* [[File:img_00077.jpg]] - frame at 2s533ms
+* [[File:img_00081.jpg]] - frame at 2s667ms
+* [[File:img_00085.jpg]] - frame at 2s800ms
+* [[File:img_00090.jpg]] - frame at 2s967ms
+* [[File:img_00095.jpg]] - frame at 3s133ms
+* [[File:img_00097.jpg]] - frame at 3s200ms
+* [[File:img_00101.jpg]] - frame at 3s333ms
+* [[File:img_00105.jpg]] - frame at 3s467ms
+* [[File:img_00110.jpg]] - frame at 3s633ms
+* [[File:img_00115.jpg]] - frame at 3s800ms
+* [[File:img_00117.jpg]] - frame at 3s867ms
+* [[File:img_00123.jpg]] - frame at 4s67ms
+* [[File:img_00127.jpg]] - frame at 4s200ms
+* [[File:img_00130.jpg]] - frame at 4s300ms
+* [[File:img_00135.jpg]] - frame at 4s467ms
+* [[File:img_00138.jpg]] - frame at 4s567ms
+* [[File:img_00141.jpg]] - frame at 4s667ms
+* [[File:img_00145.jpg]] - frame at 4s800ms
+* [[File:img_00150.jpg]] - frame at 4s967ms
+* [[File:img_00155.jpg]] - frame at 5s133ms
+* [[File:img_00157.jpg]] - frame at 5s200ms
+* [[File:img_00163.jpg]] - frame at 5s400ms
+* [[File:img_00165.jpg]] - frame at 5s467ms
+* [[File:img_00170.jpg]] - frame at 5s633ms
+* [[File:img_00175.jpg]] - frame at 5s800ms
+* [[File:img_00177.jpg]] - frame at 5s867ms
+* [[File:img_00181.jpg]] - frame at 6s
+* [[File:img_00187.jpg]] - frame at 6s200ms
+* [[File:img_00190.jpg]] - frame at 6s300ms
+* [[File:img_00195.jpg]] - frame at 6s467ms
+* [[File:img_00197.jpg]] - frame at 6s533ms
+* [[File:img_00201.jpg]] - frame at 6s667ms
+* [[File:img_00207.jpg]] - frame at 6s867ms
+* [[File:img_00210.jpg]] - frame at 6s967ms
+* [[File:img_00215.jpg]] - frame at 7s133ms
+* [[File:img_00217.jpg]] - frame at 7s200ms
+* [[File:img_00221.jpg]] - frame at 7s333ms
+* [[File:img_00225.jpg]] - frame at 7s467ms
+* [[File:img_00230.jpg]] - frame at 7s633ms
+* [[File:img_00235.jpg]] - frame at 7s800ms
+* [[File:img_00237.jpg]] - frame at 7s867ms
+* [[File:img_00241.jpg]] - frame at 8s
+
+=== Copy-paste source lines ===
+
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s267ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s433ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s533ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s733ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s867ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 0s967ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s133ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s333ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s633ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s800ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 1s900ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s67ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s133ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s300ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s533ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s667ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s800ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 2s967ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s133ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s333ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s633ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s800ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 3s867ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s67ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s300ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s567ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s667ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s800ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 4s967ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s133ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s400ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s633ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s800ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 5s867ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s300ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s533ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s667ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s867ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 6s967ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s133ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s200ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s333ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s467ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s633ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s800ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 7s867ms]]
+[[File:Turn_head_left_and_right_20261021085100.mp4|frame at 8s]]
